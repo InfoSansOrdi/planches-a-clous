@@ -1,0 +1,11 @@
+*.aux
+*.aux.orig
+*.log
+*.nav
+*.out
+*.pdf.mk
+*.snm
+*.toc
+*~
+cpy.pdf
+*.fdb_latexmk
